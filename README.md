@@ -1,8 +1,8 @@
 # Zentavalk-Master-Doc
 
 
-#Classes
+Classes
 
-#Armory
+Armory
 
-#Lore 
+Lore 
